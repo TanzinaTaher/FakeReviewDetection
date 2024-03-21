@@ -1,0 +1,1 @@
+This work focuses on employing advanced transformerbased models to automatically detect fake reviews. The RoBERTa, BERT with LSTM, and BERT without LSTM model's performance were evaluated using a dataset of 40000 reviews, half of which are real and half of which are artificially produced fake reviews. RoBERTa outperformed other models, scoring 93.72% accuracy.
